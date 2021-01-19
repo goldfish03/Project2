@@ -1,0 +1,33 @@
+@charset "utf-8";
+body {
+    color: #191919;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    background-image: url(Images/Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    width: 768px;
+    height: 250px;
+    background-color: #008000;
+    background-image: url(Images/Violets.jpg);
+    text-align: center;
+}
+
+
+main {
+    width: 768px;
+    height: 600px;
+    background-color: blue;
+
+}
+footer {
+    width: 768px;
+    height: 50px;
+    background-color: orange;
+}
+header h1 {
+    padding-top: 19px;
+}
